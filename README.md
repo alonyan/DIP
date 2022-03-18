@@ -1,2 +1,2 @@
 # DIP
-UCLA QCBio Collaboratory workshop 21: Digital Image Analysis with Python
+Intro workshop on Digital Image Analysis with Python. Alon Oyler-Yaniv, HMS
